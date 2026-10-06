@@ -1,5 +1,6 @@
 {
     "patcher": {
+"description" : "_br.osc.example.1.0 -- Created by Brian Riordan, guaguanco127@gmail.com -- https://github.com/guaguanco127/ -- Credits: anti-aliasing by PolyBLEP (Välimäki & Huovilainen, \"Antialiasing Oscillators in Subtractive Synthesis\", IEEE Signal Processing Magazine, 2007).",
         "fileversion": 1,
         "appversion": {
             "major": 9,
@@ -18,6 +19,8 @@
         "showrootpatcherontab": 0,
         "showontab": 0,
         "boxes": [
+{"box": {"id": "obj-signature", "maxclass": "comment", "numinlets": 1, "numoutlets": 0, "patching_rect": [345.0, 10.0, 520.0, 80.0], "text": "_br.osc.example.1.0 -- Created by Brian Riordan, guaguanco127@gmail.com\nhttps://github.com/guaguanco127/\nCredits: anti-aliasing by PolyBLEP (Välimäki & Huovilainen, \"Antialiasing Oscillators in Subtractive Synthesis\", IEEE Signal Processing Magazine, 2007).", "linecount": 4}},
+
             {
                 "box": {
                     "fontname": "Arial",

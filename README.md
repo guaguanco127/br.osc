@@ -34,3 +34,11 @@ br.osc.1.0 is an anti-aliasing oscillator with 8 shapes. It stays clean at audio
 **Phase input:** br.osc.1.0 does not take a frequency. It follows a 0 - 1 ramp, such as a phasor~. Because of this, several br.osc.1.0 can share one phasor~ and stay perfectly in time with each other.
 
 The help patch (_br.osc.example.1.0.maxpat) has a tab for each inlet, plus tabs on modulation, vibrato and FM, harmonicity, and modulating the other inlets.
+
+## <a name="Credits"></a>Credits
+
+Anti-aliasing by PolyBLEP (Välimäki & Huovilainen, "Antialiasing Oscillators in Subtractive Synthesis", IEEE Signal Processing Magazine, 2007).
+
+## <a name="Credits"></a>Credits
+
+Anti-aliasing by PolyBLEP (Välimäki & Huovilainen, "Antialiasing Oscillators in Subtractive Synthesis", IEEE Signal Processing Magazine, 2007).

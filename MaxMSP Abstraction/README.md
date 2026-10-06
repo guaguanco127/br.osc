@@ -105,3 +105,7 @@ Open _br.osc.example.1.0.maxpat (keep it in the same folder as br.osc.1.0.maxpat
 - **modulating-inlets:** an LFO moving the Shape, with ideas for the other inlets.
 
 Every tab's gain starts silent. Click the speaker to turn on audio.
+
+## <a name="Credits"></a>Credits
+
+Anti-aliasing by PolyBLEP (Välimäki & Huovilainen, "Antialiasing Oscillators in Subtractive Synthesis", IEEE Signal Processing Magazine, 2007).
